@@ -4,6 +4,8 @@
 
 This project is an **interactive sales analytics dashboard** designed to track **coffee sales performance, revenue trends, and product-wise insights**. It helps businesses make **data-driven decisions** using visual analytics.
 
+<img width="804" height="428" alt="image" src="https://github.com/user-attachments/assets/7662f0ee-4754-4c8c-ad78-8d7c7d20b23d" />
+
 ---
 
 ## 🎯 Dashboard Objectives
